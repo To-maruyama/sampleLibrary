@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 727ms :: artifacts dl 37ms
+[debug] :: resolution report :: resolve 522ms :: artifacts dl 19ms
 [debug] 	report for default#samplelibrary$sbt_2.12;1.0 default produced in /Users/maru/project/sampleLibrary/target/resolution-cache/reports/default-samplelibrary$sbt_2.12-default.xml
-[debug] 	resolve done (727ms resolve - 37ms download)
+[debug] 	resolve done (522ms resolve - 19ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#samplelibrary$sources_2.12;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 175ms :: artifacts dl 26ms
+[debug] :: resolution report :: resolve 84ms :: artifacts dl 18ms
 [debug] 	report for default#samplelibrary$sources_2.12;1.0 default produced in /Users/maru/project/sampleLibrary/target/resolution-cache/reports/default-samplelibrary$sources_2.12-default.xml
-[debug] 	resolve done (175ms resolve - 26ms download)
+[debug] 	resolve done (84ms resolve - 18ms download)
