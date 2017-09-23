@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0m:: delivering :: default#samplelibrary_2.12;1.0 :: 1.0 :: release :: Sat Sep 23 16:35:10 JST 2017[0m
-[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sat Sep 23 16:35:10 JST 2017 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m:: delivering :: com.sampleLibrary#samplelibrary_2.12;1.0 :: 1.0 :: release :: Sat Sep 23 16:46:58 JST 2017[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sat Sep 23 16:46:58 JST 2017 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
 [0m[[0minfo[0m] [0m	delivering ivy file to /Users/maru/project/sampleLibrary/target/scala-2.12/ivy-1.0.xml[0m
-[0m[[0mdebug[0m] [0m	deliver done (24ms)[0m
+[0m[[0mdebug[0m] [0m	deliver done (18ms)[0m
