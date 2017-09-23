@@ -4,7 +4,7 @@
 		module="samplelibrary$sbt_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170923153721"
+		publication="20170923154610"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
